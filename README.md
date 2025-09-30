@@ -54,3 +54,9 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 - `Hospital_Emergency_Room_Dashboard.pbix` - Power BI file
 - `Hospital er data.csv` - dataset
 - `README.md` - Project documentation
+
+## Technologies Used
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
