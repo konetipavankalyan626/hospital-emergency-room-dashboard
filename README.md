@@ -21,3 +21,9 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 - Time analysis by day and hour
 
 -[Dashboard Screenshot] <img width="906" height="552" alt="monthlyview" src="https://github.com/user-attachments/assets/20855202-35fa-4648-83b9-0bed3dfe90b3" />
+
+### 2. Consolidated View
+- Holistic performance summary for selected date ranges
+- Aggregated metrics and trend analysis
+
+  -[Dashboard Screenshot]<img width="903" height="548" alt="consolidatedview" src="https://github.com/user-attachments/assets/6c61f02d-bdb9-4e7d-9ac1-5ea5c2e184b4" />
