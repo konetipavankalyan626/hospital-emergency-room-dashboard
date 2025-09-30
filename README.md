@@ -79,3 +79,6 @@ This Hospital Emergency Room Dashboard successfully delivers a comprehensive ana
 The dashboard empowers healthcare administrators to reduce patient wait times, improve satisfaction scores, and allocate resources more effectively. By identifying peak hours, referral patterns, and demographic trends, hospitals can enhance patient care while optimizing operational efficiency.
 
 This project showcases the power of Power BI in healthcare analytics and serves as a foundation for continuous improvement in emergency room management.
+
+## Author - Pavan Kalyan Koneti
+This project is part of my portfolio,
