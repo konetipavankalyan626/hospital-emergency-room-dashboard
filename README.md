@@ -19,4 +19,4 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 - Timeliness metrics (patients seen within 30 minutes)
 - Gender and racial demographics
 - Time analysis by day and hour
-![Dashboard Screenshot] (<img width="906" height="552" alt="monthlyview" src="https://github.com/user-attachments/assets/20855202-35fa-4648-83b9-0bed3dfe90b3" />
+![Dashboard Screenshot] <img width="906" height="552" alt="monthlyview" src="https://github.com/user-attachments/assets/20855202-35fa-4648-83b9-0bed3dfe90b3" />
