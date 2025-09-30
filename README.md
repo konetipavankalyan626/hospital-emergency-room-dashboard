@@ -9,3 +9,13 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 - Analyze patient satisfaction scores
 - Count patients referred to specific departments
 - Identify operational bottlenecks and improvement opportunities
+
+## Dashboards Included
+
+### 1. Monthly View
+- Patient admission status
+- Age distribution analysis
+- Department referral trends
+- Timeliness metrics (patients seen within 30 minutes)
+- Gender and racial demographics
+- Time analysis by day and hour
