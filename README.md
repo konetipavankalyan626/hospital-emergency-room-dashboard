@@ -81,4 +81,4 @@ The dashboard empowers healthcare administrators to reduce patient wait times, i
 This project showcases the power of Power BI in healthcare analytics and serves as a foundation for continuous improvement in emergency room management.
 
 ## Author - Pavan Kalyan Koneti
-This project is part of my portfolio,
+This project is part of my portfolio,showcasing the Passionate about transforming raw data into meaningful insights that drive business decisions and operational excellence.
