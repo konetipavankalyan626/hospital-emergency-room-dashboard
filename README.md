@@ -33,3 +33,10 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 - Detailed information grid for troubleshooting
 
 - [Dashboard Screenshot]<img width="908" height="549" alt="patientdetails" src="https://github.com/user-attachments/assets/500f9a55-a090-4721-a6cc-77e778171ea6" />
+
+### 4. Key Takeaways
+- Actionable insights and recommendations
+- Performance summaries and optimization suggestions
+
+-[Dashboard Screenshot] <img width="900" height="550" alt="keytakeawayes" src="https://github.com/user-attachments/assets/2283d48a-6004-4e6a-b211-70a26ec0e4d9" />
+
