@@ -40,3 +40,16 @@ This Power BI dashboard provides comprehensive analytics for hospital emergency 
 
 -[Dashboard Screenshot] <img width="900" height="550" alt="keytakeawayes" src="https://github.com/user-attachments/assets/2283d48a-6004-4e6a-b211-70a26ec0e4d9" />
 
+## Project Steps
+1. Requirement Gathering
+2. Data Walkthrough
+3. Data Connection & Cleaning
+4. Data Modeling
+5. DAX Calculations
+6. Dashboard Development
+7. Insights Generation
+
+## Files in this Repository
+- `Hospital-Emergency-Room-PPT.pptx` - Project presentation
+- `Hospital_Emergency_Room_Dashboard.pbix` - Power BI file
+- `README.md` - Project documentation
